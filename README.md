@@ -1,5 +1,6 @@
 ### Hi there 👋
-![alt text](https://github.com/[venuswhispers]/[Go_radiance]/[main]/Background.png?raw=true)
+
+![Background](https://github.com/venuswhispers/venuswhispers/assets/153607879/19bb8a28-e686-459e-a619-1a0056af6ad6)
 
 <!--
 **venuswhispers/venuswhispers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
