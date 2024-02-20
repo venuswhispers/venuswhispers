@@ -10,7 +10,10 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=WAGMI🤹&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
 
+⌨️ Readme Typing SVG
+Example Usage - README Typing SVG
 
+ 
 <!--
 **venuswhispers/venuswhispers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
