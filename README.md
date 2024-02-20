@@ -23,7 +23,8 @@
 </a> &#xa0; &#xa0;
 
 <a href="https://styled-components.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
+  <img width="50" title="Styled Components" alt="Styled Components Logo" src="![image](https://github.com/venuswhispers/venuswhispers/assets/153607879/de7611ba-356f-450b-89fe-6599b069b84a)
+">
 </a> &#xa0; &#xa0;
 
 <a href="https://jestjs.io">
