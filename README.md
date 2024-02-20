@@ -22,9 +22,6 @@
   <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
 </a> &#xa0; &#xa0;
 
-
-</a> &#xa0; &#xa0;
-
 <a href="https://jestjs.io">
   <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
 </a> &#xa0; &#xa0;
