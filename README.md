@@ -10,14 +10,18 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=WAGMI🤹&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
 
-🏆 GitHub Achievements 🏆
+### Top languages used in repository card
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=nord_bright)
 
-
-
-
-🏅 Displaying Achievements 🏅
-Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
-You can opt out from having achievements displayed on your profile by going to your profile settings.
+`http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}`
+- Accept url parameters
+  - theme
+    - Theme name
+  - username
+    - Username
+  - exclude: 
+    - A comma separated list of languages to exclude, e.g., exclude=java,rust
+    - You can found the supported languages in [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 
 
  
