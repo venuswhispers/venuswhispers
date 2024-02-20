@@ -1,7 +1,9 @@
 ### Hi there 👋
 # 🏆 Blockchain Developer is here! 🏆
 <br>
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=WAGMI🤹&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
+
 <br>
 
 ## :rocket: Main Technologies ##
