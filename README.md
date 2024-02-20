@@ -1,6 +1,5 @@
 ### Hi there 👋
-![Background](https://github.com/venuswhispers/venuswhispers/assets/153607879/1df77ed2-4b16-4789-8c69-d3dccff04989)
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=WAGMI🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=WAGMI🤹&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 <!--
