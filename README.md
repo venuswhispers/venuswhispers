@@ -14,14 +14,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=nord_bright)
 
 `http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}`
-- Accept url parameters
-  - theme
-    - Theme name
-  - username
-    - Username
-  - exclude: 
-    - A comma separated list of languages to exclude, e.g., exclude=java,rust
-    - You can found the supported languages in [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
+
 
 
  
