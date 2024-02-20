@@ -1,4 +1,8 @@
 ### Hi there 👋
+🚧 Contributing :
+➡ Add more SVG or create variants for existing ones read how-to-add.md
+🛠️ Working Locally : Use markserv to preview markdown locally in browser.
+💐 Collection
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=WAGMI🤹&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
 
 
