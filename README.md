@@ -10,8 +10,15 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=WAGMI🤹&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
 
-⌨️ Readme Typing SVG
-Example Usage - README Typing SVG
+🏆 GitHub Achievements 🏆
+
+
+
+
+🏅 Displaying Achievements 🏅
+Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
+You can opt out from having achievements displayed on your profile by going to your profile settings.
+
 
  
 <!--
