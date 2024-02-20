@@ -2,7 +2,7 @@
 # 🏆 Blockchain Developer is here! 🏆
 
 <br>
-<img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/7de5c998-584b-4c50-a266-4fb29f2a4aa0" height="300">
+<img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/7de5c998-584b-4c50-a266-4fb29f2a4aa0" width="1000" height="300">
 ![image](https://github.com/venuswhispers/venuswhispers/assets/153607879/7de5c998-584b-4c50-a266-4fb29f2a4aa0 | height=200)
 
 
