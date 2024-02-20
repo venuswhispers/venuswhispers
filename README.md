@@ -22,7 +22,6 @@
   <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
 </a> &#xa0; &#xa0;
 
-![image](https://github.com/venuswhispers/venuswhispers/assets/153607879/f8b6c3a7-8823-4f01-b56b-28a8d482cb19)
 
 </a> &#xa0; &#xa0;
 
