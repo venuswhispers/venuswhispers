@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Uploading Background.png…]()
+![Alt text](![Background](https://github.com/venuswhispers/venuswhispers/assets/153607879/5c5207c4-f43d-424a-865e-36aeae1df6d1)
+)
 
 <!--
 **venuswhispers/venuswhispers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
