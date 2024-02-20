@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Background](https://github.com/venuswhispers/venuswhispers/assets/153607879/1df77ed2-4b16-4789-8c69-d3dccff04989)
+![Background](https://github.com/venuswhispers/venuswhispers/assets/153607879/1df77ed2-4b16-4789-8c69-d3dccff04989 = 1024X500)
 
 
 
