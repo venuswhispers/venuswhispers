@@ -1,0 +1,47 @@
+name: Test
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+permissions: read-all
+
+jobs:
+  build:
+    name: Perform tests
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+
+      - name: Setup Node
+        uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4.0.2
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: npm
+
+      - name: Install & Test
+        run: |
+          npm ci
+          npm run test
+
+      - name: Run ESLint
+        run: |
+          npm run lint
+
+      - name: Run bench tests
+        run: |
+          npm run bench
+
+      - name: Run Prettier
+        run: |
+          npm run format:check
+
+      - name: Code Coverage
+        uses: codecov/codecov-action@4fe8c5f003fae66aa5ebb77cfd3e7bfbbda0b6b0 # v3.1.5

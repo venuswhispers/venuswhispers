@@ -1,0 +1,47 @@
+name: Theme preview
+on:
+  pull_request_target:
+    types: [opened, edited, reopened, synchronize]
+    branches:
+      - master
+    paths:
+      - "themes/index.js"
+
+permissions:
+  actions: read
+  checks: read
+  contents: read
+  deployments: read
+  issues: read
+  discussions: read
+  packages: read
+  pages: read
+  pull-requests: write
+  repository-projects: read
+  security-events: read
+  statuses: read
+
+jobs:
+  previewTheme:
+    name: Install & Preview
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+
+      - name: Setup Node
+        uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4.0.2
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: npm
+
+      - uses: bahmutov/npm-install@237ded403e6012a48281f4572eab0c8eafe55b3f # v1.10.1
+        with:
+          useLockFile: false
+
+      - run: npm run preview-theme
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
