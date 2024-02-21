@@ -61,7 +61,7 @@
 ### Go
 
 <a href="https://github.com/venuswhispers/Go_radiance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Go_radiance&theme=tokyonight&description_lines_count=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Go_radiance&theme=tokyonight&description_lines_count=3" />
 </a>
 
 ### Rust
