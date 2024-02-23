@@ -3,12 +3,12 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="50" height="50" /> My Portfolio
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="50" height="50" /> My Portfolio
 <a href="https://daniel-solis.vercel.app/"> <img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/3c6bcaa7-e05c-4051-87d0-0dcb5379f6b8">
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="50" height="50" /> My Projects
-###   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="50" height="50" /> &nbsp;Verse Decentralized Exchange
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="50" height="50" /> My Projects
+##   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="50" height="50" /> &nbsp;Verse Decentralized Exchange
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="50" height="50" /> &nbsp;Overview
 ### Contributed to Verse's development, a decentralized exchange integrated into Bitcoin.com's ecosystem, enhancing the user experience with the multichain Bitcoin.com Wallet app and News platform, built on a robust tech stack for optimal performance and scalability.
 <br>
@@ -17,7 +17,7 @@
 
 <br>
   
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="50" height="50" /> &nbsp; Luxy NFT Marketplace
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="50" height="50" /> &nbsp; Luxy NFT Marketplace
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="50" height="50" />&nbsp; Overview
 ### Played a pivotal role in the development of Luxy, an NFT marketplace renowned for its speed, scalability, eco-friendliness, and user-centric design. Luxy stands out with its low-cost structure, no minimum collection requirements, and support for an expanding selection of blockchain networks.
 <br>
@@ -25,14 +25,14 @@
 
 <br>
 
-##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="50" height="50" /> Repositories
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" /> Go
+#  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="50" height="50" /> Repositories
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" /> Go
 
 <a href="https://github.com/venuswhispers/Go_radiance">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Go_radiance&theme=tokyonight&description_lines_count=4" />
 </a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" />Rust
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" />Rust
 
 <a href="https://github.com/venuswhispers/Rust-awesome-frameworks">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Rust-awesome-frameworks&theme=tokyonight&description_lines_count=4" />
@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Rust-clockchain&theme=tokyonight&description_lines_count=4" />
 </a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" />Solidity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" />Solidity
 
 <a href="https://github.com/venuswhispers/WPF_gas_opt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=WPF_gas_opt&theme=tokyonight&description_lines_count=4" />
@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Crypto_vouchers&theme=tokyonight&description_lines_count=4" />
 </a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" /> DApps
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" /> DApps
 
 <a href="https://github.com/venuswhispers/NFT_Swap">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=NFT_Swap&theme=tokyonight&description_lines_count=4" />
