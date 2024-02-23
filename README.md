@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://jackmoes.vercel.app/"> <img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/2102c8ad-b08a-4af3-8f2e-60acb5b6944c">
-
+<a href="https://luxy.io/"> <img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/2972030c-78e6-4675-a219-6783f0d0d1e9">
 <br>
   
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="40" height="40" /> &nbsp; Luxy NFT Marketplace
