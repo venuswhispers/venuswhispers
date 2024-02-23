@@ -2,9 +2,9 @@
 # 🏆 Blockchain Developer is here! 🏆
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="40" height="40" /> My Projects
-###   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="40" height="40" /> &nbsp;Verse Decentralized Exchange
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="40" height="40" /> &nbsp;Overview
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="50" height="50" /> My Projects
+###   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="50" height="50" /> &nbsp;Verse Decentralized Exchange
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="50" height="50" /> &nbsp;Overview
 ### Contributed to Verse's development, a decentralized exchange integrated into Bitcoin.com's ecosystem, enhancing the user experience with the multichain Bitcoin.com Wallet app and News platform, built on a robust tech stack for optimal performance and scalability.
 <br>
 
@@ -12,8 +12,8 @@
 
 <br>
   
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="40" height="40" /> &nbsp; Luxy NFT Marketplace
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="40" height="40" />&nbsp; Overview
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="50" height="50" /> &nbsp; Luxy NFT Marketplace
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="50" height="50" />&nbsp; Overview
 ### Played a pivotal role in the development of Luxy, an NFT marketplace renowned for its speed, scalability, eco-friendliness, and user-centric design. Luxy stands out with its low-cost structure, no minimum collection requirements, and support for an expanding selection of blockchain networks.
 <br>
 <a href="https://luxy.io/"> <img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/a0acb827-a14e-4c3d-824e-acaaea1a03a1">
