@@ -11,6 +11,7 @@
 
 ### 👨‍💻 Programming and markup languages
 
+
 <p>
     <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -21,7 +22,9 @@
     <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
 </p>
 
+
 ### 🧰 Frameworks and libraries
+
 
 <p>
     <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -42,7 +45,11 @@
     <img alt="marterialUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 </p>
 
+
+
 ### 🗄️ Databases, Blockchains and cloud hosting
+
+
 
 <p>
 
