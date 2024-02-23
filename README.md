@@ -3,6 +3,10 @@
 
 <br>
 
+## My Portfolio
+<a href="https://daniel-solis.vercel.app/"> <img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/3c6bcaa7-e05c-4051-87d0-0dcb5379f6b8">
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="50" height="50" /> My Projects
 ###   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="50" height="50" /> &nbsp;Verse Decentralized Exchange
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="50" height="50" /> &nbsp;Overview
