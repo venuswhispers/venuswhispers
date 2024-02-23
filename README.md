@@ -1,6 +1,6 @@
 ### Hi there 👋
-# 🏆 Blockchain Developer is here! 🏆
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="100" height="100" />
+# 🏆 Blockchain Developer is here! &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="100" height="100" />🏆
+
 <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="50" height="50" /> My Projects
