@@ -2,21 +2,21 @@
 # 🏆 Blockchain Developer is here! 🏆
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="50" height="50"> My Projects
+## <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="40" height="40"> My Projects
 ### Verse Decentralized Exchange
 ### Overview: Contributed to Verse's development, a decentralized exchange integrated into Bitcoin.com's ecosystem, enhancing the user experience with the multichain Bitcoin.com Wallet app and News platform, built on a robust tech stack for optimal performance and scalability.
 <br>
 <a href="https://jackmoes.vercel.app/"> <img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/2102c8ad-b08a-4af3-8f2e-60acb5b6944c">
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="50" height="50"> Repositories
-### <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="50" /> Go
+## <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="40" height="40"> Repositories
+### <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="40" /> Go
 
 <a href="https://github.com/venuswhispers/Go_radiance">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Go_radiance&theme=tokyonight&description_lines_count=4" />
 </a>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="50" /> Rust
+### <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="40" /> Rust
 
 <a href="https://github.com/venuswhispers/Rust-awesome-frameworks">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Rust-awesome-frameworks&theme=tokyonight&description_lines_count=4" />
@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Rust-clockchain&theme=tokyonight&description_lines_count=4" />
 </a>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="50" /> Solidity
+### <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="40" /> Solidity
 
 <a href="https://github.com/venuswhispers/WPF_gas_opt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=WPF_gas_opt&theme=tokyonight&description_lines_count=4" />
@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Crypto_vouchers&theme=tokyonight&description_lines_count=4" />
 </a>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="50" /> DApps
+### <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="40" /> DApps
 
 <a href="https://github.com/venuswhispers/NFT_Swap">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=NFT_Swap&theme=tokyonight&description_lines_count=4" />
