@@ -15,9 +15,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="40" height="40" /> &nbsp; Luxy NFT Marketplace
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="40" height="40" />&nbsp; Overview
 ### Played a pivotal role in the development of Luxy, an NFT marketplace renowned for its speed, scalability, eco-friendliness, and user-centric design. Luxy stands out with its low-cost structure, no minimum collection requirements, and support for an expanding selection of blockchain networks.
-
 <br>
-
 <a href="https://luxy.io/"> <img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/2972030c-78e6-4675-a219-6783f0d0d1e9">
 
 <br>
