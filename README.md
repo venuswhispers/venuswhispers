@@ -2,7 +2,7 @@
 # 🏆 Blockchain Developer is here! 🏆
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="40" height="40"> My Projects
+## <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="30" height="30"> My Projects
 ### <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="40" /> Verse Decentralized Exchange
 ### &nbsp;  😄 &nbsp; Overview
 #### Contributed to Verse's development, a decentralized exchange integrated into Bitcoin.com's ecosystem, enhancing the user experience with the multichain Bitcoin.com Wallet app and News platform, built on a robust tech stack for optimal performance and scalability.
