@@ -3,7 +3,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Glowing%20Star.webp" alt="Glowing Star" width="70" height="70" /> My Portfolio
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="50" height="50" /> My Portfolio
 <a href="https://daniel-solis.vercel.app/"> <img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/3c6bcaa7-e05c-4051-87d0-0dcb5379f6b8">
 
 
