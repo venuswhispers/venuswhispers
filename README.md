@@ -21,13 +21,13 @@
 <br>
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="50" height="50" /> Repositories
-###  Go
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" /> Go
 
 <a href="https://github.com/venuswhispers/Go_radiance">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Go_radiance&theme=tokyonight&description_lines_count=4" />
 </a>
 
-### Rust
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" />Rust
 
 <a href="https://github.com/venuswhispers/Rust-awesome-frameworks">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Rust-awesome-frameworks&theme=tokyonight&description_lines_count=4" />
@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Rust-clockchain&theme=tokyonight&description_lines_count=4" />
 </a>
 
-### Solidity
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" />Solidity
 
 <a href="https://github.com/venuswhispers/WPF_gas_opt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=WPF_gas_opt&theme=tokyonight&description_lines_count=4" />
@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Crypto_vouchers&theme=tokyonight&description_lines_count=4" />
 </a>
 
-###  DApps
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" /> DApps
 
 <a href="https://github.com/venuswhispers/NFT_Swap">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=NFT_Swap&theme=tokyonight&description_lines_count=4" />
