@@ -3,8 +3,7 @@
 
 <br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="70" height="70" /> My Portfolio
-<a href="https://daniel-solis.vercel.app/"> <img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/3c6bcaa7-e05c-4051-87d0-0dcb5379f6b8">
+
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Shopping%20Cart.webp" alt="Shopping Cart" width="70" height="70" /> My Projects
