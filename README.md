@@ -24,7 +24,7 @@
 
 <br>
 
-#  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="70" height="70" /> Repositories
+#  📁 Repositories
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" /> Go
 
 <a href="https://github.com/venuswhispers/Go_radiance">
