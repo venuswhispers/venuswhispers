@@ -6,7 +6,7 @@
 
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Shopping%20Cart.webp" alt="Shopping Cart" width="70" height="70" /> My Projects
+# 🌟 My Projects
 ##   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="50" height="50" /> &nbsp;Verse Decentralized Exchange
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="50" height="50" /> &nbsp;Overview
 ### Contributed to Verse's development, a decentralized exchange integrated into Bitcoin.com's ecosystem, enhancing the user experience with the multichain Bitcoin.com Wallet app and News platform, built on a robust tech stack for optimal performance and scalability.
