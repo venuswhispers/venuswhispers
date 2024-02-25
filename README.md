@@ -7,7 +7,7 @@
 
 
 # 🌟 My Projects
-##   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="50" height="50" /> &nbsp;Verse Decentralized Exchange
+##   👑 &nbsp;Verse Decentralized Exchange
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="50" height="50" /> &nbsp;Overview
 ### Contributed to Verse's development, a decentralized exchange integrated into Bitcoin.com's ecosystem, enhancing the user experience with the multichain Bitcoin.com Wallet app and News platform, built on a robust tech stack for optimal performance and scalability.
 <br>
@@ -16,7 +16,7 @@
 
 <br>
   
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="50" height="50" /> &nbsp; Luxy NFT Marketplace
+## 👑 &nbsp; Luxy NFT Marketplace
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="50" height="50" />&nbsp; Overview
 ### Played a pivotal role in the development of Luxy, an NFT marketplace renowned for its speed, scalability, eco-friendliness, and user-centric design. Luxy stands out with its low-cost structure, no minimum collection requirements, and support for an expanding selection of blockchain networks.
 <br>
