@@ -12,7 +12,7 @@
 ### Contributed to Verse's development, a decentralized exchange integrated into Bitcoin.com's ecosystem, enhancing the user experience with the multichain Bitcoin.com Wallet app and News platform, built on a robust tech stack for optimal performance and scalability.
 <br>
 
-<a href="https://jackmoes.vercel.app/"> <img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/2102c8ad-b08a-4af3-8f2e-60acb5b6944c">
+<a href="verse.bitcoin.com"> <img src="https://github.com/venuswhispers/venuswhispers/assets/153607879/2102c8ad-b08a-4af3-8f2e-60acb5b6944c">
 
 <br>
   
