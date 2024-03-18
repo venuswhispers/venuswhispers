@@ -267,7 +267,6 @@ contract Profile {
 <details>
 <summary>Expand</summary>
 
-<a href="https://www.twitter.com/Envoy_1084"><img src="./assets/metrics.plugin.tweets.svg"></a>
 
 </details>
 
@@ -279,7 +278,7 @@ contract Profile {
 <summary>Expand</summary>
 
 <!-- lastfm -->
-<p align="center"> <a href="https://www.last.fm/music/Tyler+Shaw/Tyler+Shaw"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b0d367f32c392f148ff0bbf134c6a789.jpg" title="Tyler Shaw - Tyler Shaw"></a> <a href="https://www.last.fm/music/PLESTED/Habits"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2bb6c4d14aaf3d6cdaf9b043339e2671.jpg" title="PLESTED - Habits"></a> <a href="https://www.last.fm/music/The+Light+The+Heat/Silhouettes"><img src="https://lastfm.freetls.fastly.net/i/u/64s/20a6b9c7db0d2163704facf22eeeff14.jpg" title="The Light The Heat - Silhouettes"></a> <a href="https://www.last.fm/music/Tyler+Shaw/Intuition"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5cfb19fcb395f11a1bf998b064c66176.jpg" title="Tyler Shaw - Intuition"></a> <a href="https://www.last.fm/music/PLESTED/First+&+Foremost"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6779cfba67d18435d58f7367344ea53b.jpg" title="PLESTED - First & Foremost"></a> <a href="https://www.last.fm/music/Jackson+Guthy/Giants"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8223518615088327299ea42d43ffdec5.jpg" title="Jackson Guthy - Giants"></a> <a href="https://www.last.fm/music/Astrid+S/Trust+Issues"><img src="https://lastfm.freetls.fastly.net/i/u/64s/435e6d413cd8c4d509a478fb850177f2.jpg" title="Astrid S - Trust Issues"></a> <a href="https://www.last.fm/music/Gracie+Abrams/minor"><img src="https://lastfm.freetls.fastly.net/i/u/64s/40693c1652f55d6cb3d63911000a4bb7.jpg" title="Gracie Abrams - minor"></a> <a href="https://www.last.fm/music/Claire+Rosinkranz/don%E2%80%99t+miss+me"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9905001ba356709cade09c89e3fc06a5.png" title="Claire Rosinkranz - don’t miss me"></a> </p>
+<p align="center">  </p>
 
 </details>
 
