@@ -1,307 +1,41 @@
-![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
+Hi 👋, I'm Rohit!
+==================================
 
-<div style="text-align: right">
-</div>
+ <a href="https://www.twitter.com/SumanRohitK7" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/SumanRohitK7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/RohitKS7" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/RohitKS7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<img src="./assets/cover.gif" alt="Cover">
+![](https://cdn-128.anonfiles.com/Z7hd35Vcyb/eecc348c-1675320833/rohit's%20Header.png)
 
-<a href="https://app.daily.dev/Envoy_"><img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="200" alt="Vedant Chainani's Dev Card"/></a>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Web3+Technical+Writer+✍️;⛓️+Blockchain+Enthusiast"alt="Currently Learning Solidity">
-</p>
-
-
-## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+# 💫 About Me:
+🔭 I build Web Applicatons with Modern UI/UX, Web3 Dapp with real time blockchain event fetching, NFTs, and Love to play with different DeFi protocols <br> 🤝 I’m finding a Job to challenge "Real" world problems <br>💬 Ask me about CSS, SOLIDITY, DEFI, WEB3, JAVASCRIPT, and Life-Science related topics <br>⚡ Fun fact I was a Researcher Scientist once <br> 🖥️  See my portfolio at [My-Portfolio](https://my-portfolio-rohitks7.vercel.app/)
 
 
-<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@Envoy_1084"></a>
-<a href="https://www.linkedin.com/in/vedant-chainani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:vedantchainani1084@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://dev.to/envoy_"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="envoy_"></a>
-<a href="https://discordapp.com/users/665550588582297622"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Envoy_#1852" ></a>
+## 🌐 Socials:
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dummy text) --> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-suman) <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dummy text) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/dummy text) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/dummy text) --> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SumanRohitK7) <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/dummy text) -->
 
+# 💻 Tech Stack: 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Hardhat](https://img.shields.io/badge/-hardhat-yellow?style=for-the-badge) ![Chainlink](https://img.shields.io/badge/-Chainlink-blue?style=for-the-badge) ![Etherjs](https://img.shields.io/badge/-Ethersjs-purple?style=for-the-badge) ![Alchemy](https://img.shields.io/badge/-Alchemy-blue?style=for-the-badge) ![Ethereum](https://img.shields.io/badge/-Ethereum-purple?style=for-the-badge) ![Blockchain](https://img.shields.io/badge/-Blockchain-grey?style=for-the-badge) ![Avalanche](https://img.shields.io/badge/-avalanche-orange?style=for-the-badge) ![framer motion](https://img.shields.io/badge/-framer_motion-purple?style=for-the-badge) ![Redux](https://img.shields.io/badge/redux-%23563D7C.svg?style=for-the-badge&logo=Redux&logoColor=white)  ![Material UI](https://img.shields.io/badge/-material_ui-blue?style=for-the-badge&logo=materialui&logoColor=white) ![Moralis](https://img.shields.io/badge/-moralis-green?style=for-the-badge) ![TheGraph](https://img.shields.io/badge/-thegraph-purple?style=for-the-badge) ![ThirdWeb](https://img.shields.io/badge/thirdweb-pink?style=for-the-badge&logo=thirdweb&logoColor=white) ![Sanity](https://img.shields.io/badge/-sanity-orange?style=for-the-badge) ![Ganache](https://img.shields.io/badge/-ganache-brown?style=for-the-badge) ![NFT](https://img.shields.io/badge/-nft-pink?style=for-the-badge) ![DefI](https://img.shields.io/badge/-defi-yellow?style=for-the-badge) ![DAO](https://img.shields.io/badge/-dao-blue?style=for-the-badge) ![IPFS](https://img.shields.io/badge/-ipfs-green?style=for-the-badge) ![Aave](https://img.shields.io/badge/-aave-purple?style=for-the-badge) ![Uniswap](https://img.shields.io/badge/-uniswap-pink?style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+<!--  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)  -->
+ 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RohitKS7&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RohitKS7&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKS7&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RohitKS7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## About Me...
-
-- 🔗 I’m currently learning Blockchain
-- 👐 I’m looking to contribute to open source
-- 🥅 2022 Goals: Learn more about Blockchains and Solidity
-- ⚡ Fun fact: I love to play games
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
-
-![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.15;
-
-contract Profile {
-    string public name = "Vedant Chainani";
-    string public pronouns = "He | Him";
-    string public currentFocus = "Web3 / dApps";
-
-    string[] internal skills;
-
-    function getSkills() public returns (string[] memory) {
-        skills = [
-            string("Javascript"),
-            "Python",
-            "Solidity",
-            "Hardhat",
-            "ethers"
-        ];
-
-        return skills;
-    }
-
-    function fun() public view returns (string memory) {
-        return
-            "Two bytes meet.  The first byte asks, 'Are you ill?' The second byte replies, 'No, just feeling a bit off.'";
-    }
-}
-
-```
-
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=RohitKS7&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<div align="center">
+<!--   ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rohitks7) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rohitks7) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rohitks7)  -->
 
-## 🤹 My Skill Set
-
-<br>
-
-<img style="margin: 10px" src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="Python" height="50" />
-<img style="margin: 10px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-<img style="margin: 10px" src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity" height="50" />
-<img style="margin: 10px" src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" alt="Hardhat" height="50" />
-<img style="margin: 10px" src="https://res.cloudinary.com/divzjiip8/image/upload/v1624392472/logos/ethers_blue.png" alt="ethers.js" height="50">
-
-</div>
-
-<br>
-
----
-### 📊 Github Stats
-
-<details>
-<summary>Expand</summary>
-
-<table><tr><td valign="top" width="50%">
-
-<br>
-
-<img src="./assets/metrics.plugin.overview.svg">
-
-</td><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
-
-</td></tr></table>
-
-<table><tr><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.activity.svg">
-
-</td><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.stargazers.svg" >
-
-</td></tr></table>
-
-</details>
-
----
-
-
-### 📊 Development Breakdown
-
-<details>
-<summary>Expand</summary>
-
-<img src="./assets/metrics.plugin.wakatime.svg">
-
-</details>
-
----
-
-### 📕 Blog Posts
-
-<details>
-<summary>Expand</summary>
-
-<img src="./assets/metrics.plugin.posts.full.svg">
-
-</details>
-
----
-
-### ✨ My Followers
-
-<details>
-<summary> Expand </summary>
-
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/shakiliitju">
-        <img src="https://avatars2.githubusercontent.com/u/84621547" width="100px;" alt="shakiliitju"/>
-      </a>
-      <br />
-      <a href="https://github.com/shakiliitju">Md. Shakil Hossain</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TenviLi">
-        <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="TenviLi"/>
-      </a>
-      <br />
-      <a href="https://github.com/TenviLi">Tenvi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hyc0812">
-        <img src="https://avatars2.githubusercontent.com/u/80454212" width="100px;" alt="hyc0812"/>
-      </a>
-      <br />
-      <a href="https://github.com/hyc0812">Yongchang He</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Amarjit-ph">
-        <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
-      </a>
-      <br />
-      <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/petermartens98">
-        <img src="https://avatars2.githubusercontent.com/u/87671757" width="100px;" alt="petermartens98"/>
-      </a>
-      <br />
-      <a href="https://github.com/petermartens98">Peter Martens</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/felpfsf">
-        <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
-      </a>
-      <br />
-      <a href="https://github.com/felpfsf">Felipe F.</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Bornunique911">
-        <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
-      </a>
-      <br />
-      <a href="https://github.com/Bornunique911">Bornunique911</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/christiancalara">
-        <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
-      </a>
-      <br />
-      <a href="https://github.com/christiancalara">christiancalara</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pampzrd">
-        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pampzrd"/>
-      </a>
-      <br />
-      <a href="https://github.com/pampzrd">Pamela Rod</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Zorono">
-        <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
-      </a>
-      <br />
-      <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ankushKun">
-        <img src="https://avatars2.githubusercontent.com/u/50258860" width="100px;" alt="ankushKun"/>
-      </a>
-      <br />
-      <a href="https://github.com/ankushKun">Ankush Singh</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Isallkun">
-        <img src="https://avatars2.githubusercontent.com/u/38537356" width="100px;" alt="Isallkun"/>
-      </a>
-      <br />
-      <a href="https://github.com/Isallkun">Faishal AR</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Dev-HideyukiTakahashi">
-        <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/peng1027">
-        <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
-      </a>
-      <br />
-      <a href="https://github.com/peng1027">peng1027</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
-
-</details>
-
----
-
-
-### 🌸 Latest Tweets
-
-<details>
-<summary>Expand</summary>
-
-
-</details>
-
----
-
-## <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-thomas.gif" height=50 alt="Now Playing"> Now Playing
-
-<details>
-<summary>Expand</summary>
-
-<!-- lastfm -->
-<p align="center">  </p>
-
-</details>
-
----
-
-
-### ⚙️ Misc
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-
-</td><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.achievements.svg">
-
-</td></tr></table>
-
-<br>
-<br>
-
-<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
-
-<br>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
