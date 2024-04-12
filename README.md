@@ -10,7 +10,7 @@ Hi 👋, I'm Here!
 <!--  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)  -->
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RohitKS7&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=VenusWhispers&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RohitKS7&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKS7&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
