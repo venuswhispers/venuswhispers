@@ -6,9 +6,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
 </div>
-<img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/venuswhispers" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/venuswhispers" alt="Crypto Venus"  width="60%"/><br> 
   
-<p><strong>Freelancing & Assisting my father at his shop.
+<p><strong>Freelancing & Working on Superior Crypto.
 <br><br> Vibing to : 🎧  </strong></p>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=venuswhispers&style=flat&color=orange&label=PROFILE+VIEWS)
