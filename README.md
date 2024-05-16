@@ -1,30 +1,162 @@
-Hi 👋, I'm Here!
-==================================
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Web+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
+</div>
+<div align="center" width='100%'>
+  <a href="https://app.daily.dev/cryptoninja1210"><img src="https://api.daily.dev/devcards/v2/1V2wT9D6Y840atauKqnZo.png?r=pze&type=wide" width="800" alt="Jerome Pangilinan's Dev Card"/></a>
+</div>
 
+<div align="center" width='100%'>
+  <h1><a align='center' width='100%' href="https://crypto-ninja-site.vercel.app/">Please Click Here!</a></h1>
+</div>
 
-# 💫 About Me:
-🔭 I build Web Applicatons with Modern UI/UX, Web3 Dapp with real time blockchain event fetching, NFTs, CrossChain and Love to play with different DeFi protocols <br> 🤝 I’m finding a Job to challenge "Real" world problems <br>💬 Ask me about CSS, SOLIDITY, DEFI, WEB3, JAVASCRIPT, CrossChain and Life-Science related topics <br>⚡ Fun fact I was a Researcher Scientist once
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
+      <br>Rails
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="Phoenix" alt="Phoenix " width="45" height="45"/>
+      <br>Phoenix
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
+      <br>Supabase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
+      <br>Styled
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
+      <br>NFT
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
+      <br>DeFi
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+  </tr>
+</table>
 
-# 💻 Tech Stack: 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Hardhat](https://img.shields.io/badge/-hardhat-yellow?style=for-the-badge) ![Chainlink](https://img.shields.io/badge/-Chainlink-blue?style=for-the-badge) ![Etherjs](https://img.shields.io/badge/-Ethersjs-purple?style=for-the-badge) ![Alchemy](https://img.shields.io/badge/-Alchemy-blue?style=for-the-badge) ![Ethereum](https://img.shields.io/badge/-Ethereum-purple?style=for-the-badge) ![Blockchain](https://img.shields.io/badge/-Blockchain-grey?style=for-the-badge) ![Avalanche](https://img.shields.io/badge/-avalanche-orange?style=for-the-badge) ![framer motion](https://img.shields.io/badge/-framer_motion-purple?style=for-the-badge) ![Redux](https://img.shields.io/badge/redux-%23563D7C.svg?style=for-the-badge&logo=Redux&logoColor=white)  ![Material UI](https://img.shields.io/badge/-material_ui-blue?style=for-the-badge&logo=materialui&logoColor=white) ![Moralis](https://img.shields.io/badge/-moralis-green?style=for-the-badge) ![TheGraph](https://img.shields.io/badge/-thegraph-purple?style=for-the-badge) ![ThirdWeb](https://img.shields.io/badge/thirdweb-pink?style=for-the-badge&logo=thirdweb&logoColor=white) ![Sanity](https://img.shields.io/badge/-sanity-orange?style=for-the-badge) ![Ganache](https://img.shields.io/badge/-ganache-brown?style=for-the-badge) ![NFT](https://img.shields.io/badge/-nft-pink?style=for-the-badge) ![DefI](https://img.shields.io/badge/-defi-yellow?style=for-the-badge) ![DAO](https://img.shields.io/badge/-dao-blue?style=for-the-badge) ![IPFS](https://img.shields.io/badge/-ipfs-green?style=for-the-badge) ![Aave](https://img.shields.io/badge/-aave-purple?style=for-the-badge) ![Uniswap](https://img.shields.io/badge/-uniswap-pink?style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-<!--  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)  -->
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=venuswhispers&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=venuswhispers&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venuswhispers&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/CryptoNinja1210?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CryptoNinja1210&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/CryptoNinja1210?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=CryptoNinja1210&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=venuswhispers&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@CryptoNinja1210">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CryptoNinja1210&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=venuswhispers&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!--   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rohitks7) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rohitks7) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rohitks7)  -->
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+<div align='center' width='100%'>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoNinja1210&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/CryptoNinja1210?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=CryptoNinja1210&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@CryptoNinja's trophy stats"/>
+  </a>
+</div>
