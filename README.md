@@ -54,9 +54,9 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "ProgramingLanguages" : { "TypeScript", "Go", "Python", "Rust", "Java", "Ruby" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
+    "Database" : { "MongoDB", "Sqlite", "Redis", "PostgreSQL" },
     "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
     "Platforms" : { "Mac", "GNU/Linux", "Windows" },
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
@@ -73,10 +73,9 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/venuswhispers">
 
-<img src="https://raw.githubusercontent.com/venuswhispers/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/venuswhispers/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/venuswhispers/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 </a>
 
 <details>
