@@ -18,24 +18,29 @@
 
 <h3 align="left">Main Focusing</h3>
 <ul align="left">
-  <li>Robust and scalable crypto platforms.</li>
-  <li>Cross chain functionalities and cutting edge bridge protocols.</li>
-  <li>Focusing on AI crypto agents.</li>
+  <li>Highly scalable and robust dapps based on EVM and Solana.</li>
+  <li>Blockchain interoperability using cross-chain bridges.</li>
+  <li>Trend AI Crypto Agent</li>
+  <li>Decentralized crypto trading platforms.</li>
 </ul>
   
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in cross chain functoins.</li>
+  <li>Deepening my knowledge in cross-chain functionalites.</li>
   <li>Exploring advanced AI models and blockchains.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Developing extensive AI Experience</li>
 </ul>
 <br />
 <br />
 <br />
 <br />
 
-<p><strong>Freelancing & Working on Superior Crypto.
-<br><br> Vibing to : 🎧  </strong></p>
+<p><strong>
+  Freelancing & Working on Superior Crypto & AI
+  <br><br> 
+  Vibing to : 🎧  
+</strong></p>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=venuswhispers&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvenuswhispers&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
@@ -91,9 +96,9 @@ class About extends Me {
 ```
 
 -  <img alt="GIF" src="https://github.com/venuswhispers/venuswhispers/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, or anything**. <br>
-- <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/)**<br>
+- <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/LINUX**. <br>
+- <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, AI agent, or anything**. <br>
+- <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[👀 whispers](https://t.me/)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
 
 <div align="center" >
