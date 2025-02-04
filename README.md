@@ -6,8 +6,34 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
 </div>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/venuswhispers" alt="Crypto Venus"  width="60%"/><br> 
+
+
+<!--Languages and Tools Section-->       
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Main Focusing</h3>
+<ul align="left">
+  <li>Robust and scalable crypto platforms.</li>
+  <li>Cross chain functionalities and cutting edge bridge protocols.</li>
+  <li>Focusing on AI crypto agents.</li>
+</ul>
   
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in cross chain functoins.</li>
+  <li>Exploring advanced AI models and blockchains.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+
 <p><strong>Freelancing & Working on Superior Crypto.
 <br><br> Vibing to : 🎧  </strong></p>
 
