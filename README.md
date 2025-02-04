@@ -16,7 +16,7 @@
 </picture>
 <br />
 
-<h3 align="left">Main Focusing</h3>
+<h3 align="left">Key Focus</h3>
 <ul align="left">
   <li>Highly scalable and robust dapps based on EVM and Solana.</li>
   <li>Blockchain interoperability using cross-chain bridges.</li>
