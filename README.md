@@ -27,7 +27,7 @@
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening my knowledge in cross-chain functionalites.</li>
-  <li>Exploring advanced AI models and blockchains.</li>
+  <li>Exploring advanced AI models.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
   <li>Developing extensive AI Experience</li>
 </ul>
